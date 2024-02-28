@@ -2,7 +2,6 @@
   "name": "proweb_intro-git",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/cegh2001/cegh2001.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
